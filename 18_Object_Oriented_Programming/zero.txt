@@ -1,0 +1,4 @@
+Orignal form
+12 56 8 4 33 
+ Sorted form
+4 8 12 33 56 

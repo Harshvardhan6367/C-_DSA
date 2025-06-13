@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build C++",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-g",
+        "01_Syntax.cpp",
+        "-o",
+        "01_Syntax.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
