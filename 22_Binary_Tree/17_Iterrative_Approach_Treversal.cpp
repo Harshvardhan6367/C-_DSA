@@ -57,7 +57,7 @@ vector<int> InOrder(Node* root)
     stack<Node*>s;
     stack<bool>visited;
     s.push(root);
-    visited(0);
+    visited.push(0);
     vector<int>ans;
     while(!s.empty())
     {
