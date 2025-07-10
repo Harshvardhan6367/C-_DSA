@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//Unique Jeys are present        Duplicate key are not allowed
+//Unique keys are present        Duplicate key are not allowed
 //But not in ordered way(not sorted form)
 // implementation Hashing
 //insert, search, delete ------>constant time
